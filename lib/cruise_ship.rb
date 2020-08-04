@@ -18,6 +18,3 @@ end
 winner 
 end 
 
-def happy_birthday()
-  
-end 
