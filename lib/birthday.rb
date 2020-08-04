@@ -11,11 +11,8 @@ def happy_birthday(birthday_kids)
       "Amanda" => 27
     }
 birthday_kids.collect do |name, age|
-  if age <= 12
   puts "Happy Birthday #{name}! You are now #{age} years old!" 
-else 
-  "You are too old for this."
-end 
+
 end
 end
 
