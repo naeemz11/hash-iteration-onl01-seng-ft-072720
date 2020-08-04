@@ -10,7 +10,7 @@ def happy_birthday(birthday_kids)
       "Sarah" => 6,
       "Amanda" => 27
     }
-def 
+birthday_kids.each do |name,  
 end
 
 
